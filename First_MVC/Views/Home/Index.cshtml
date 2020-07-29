@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@using First_MVC.Models
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+@{
+    var data = ViewBag.Message;
+}
+@foreach (var item in data)
+{
+    <h3>Id: @item.Date</h3>
+    <h3>RecordName: @item.TemperatureC</h3>
+    <h3>RecordDetail: @item.Summary</h3>
+
+}

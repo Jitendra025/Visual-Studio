@@ -1,0 +1,14 @@
+version : '3.4'
+services:
+  bdotnetmvcapp:
+    image: jitendra0625/mvcdemo:latest
+    network_mode: bridge
+    ports:
+    - 5000:5000
+    depends_on:
+    - bdotnetwebapi
+  bdotnetwebapi:
+    image: jitendra0625/webapidemo:latest
+    network_mode: bridge
+    ports:
+    - 8000:8000

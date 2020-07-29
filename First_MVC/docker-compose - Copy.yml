@@ -1,0 +1,12 @@
+version : '3.4'
+services:
+  bdotnetmvcapp:
+    image: jitendra0625/mvcdemo:latest
+    ports:
+    - 8090:80
+    depends_on:
+    - bdotnetwebapi
+  bdotnetwebapi:
+    image: jitendra0625/webapidemo:latest
+    ports:
+    - 8080:80

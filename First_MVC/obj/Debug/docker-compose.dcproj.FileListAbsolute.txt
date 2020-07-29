@@ -1,0 +1,12 @@
+C:\Users\jiten\source\repos\First_MVC\bin\Debug\First_MVC.Views.dll
+C:\Users\jiten\source\repos\First_MVC\bin\Debug\First_MVC.Views.pdb
+C:\Users\jiten\source\repos\First_MVC\bin\Debug\appsettings.Development.json
+C:\Users\jiten\source\repos\First_MVC\bin\Debug\appsettings.json
+C:\Users\jiten\source\repos\First_MVC\bin\Debug\Properties\launchSettings.json
+C:\Users\jiten\source\repos\First_MVC\bin\Debug\First_MVC.exe
+C:\Users\jiten\source\repos\First_MVC\bin\Debug\First_MVC.dll
+C:\Users\jiten\source\repos\First_MVC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jiten\source\repos\First_MVC\bin\Debug\First_MVC.pdb
+C:\Users\jiten\source\repos\First_MVC\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\jiten\source\repos\First_MVC\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\jiten\source\repos\First_MVC\obj\Debug\docker-compose.dcproj.CopyComplete
