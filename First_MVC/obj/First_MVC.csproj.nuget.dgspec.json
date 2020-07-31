@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jiten\\source\\repos\\First_MVC\\First_MVC.csproj": {}
+    "C:\\Users\\jiten\\OneDrive\\Documents\\GitHub\\Visual-Studio\\First_MVC\\First_MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jiten\\source\\repos\\First_MVC\\First_MVC.csproj": {
+    "C:\\Users\\jiten\\OneDrive\\Documents\\GitHub\\Visual-Studio\\First_MVC\\First_MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jiten\\source\\repos\\First_MVC\\First_MVC.csproj",
+        "projectUniqueName": "C:\\Users\\jiten\\OneDrive\\Documents\\GitHub\\Visual-Studio\\First_MVC\\First_MVC.csproj",
         "projectName": "First_MVC",
-        "projectPath": "C:\\Users\\jiten\\source\\repos\\First_MVC\\First_MVC.csproj",
+        "projectPath": "C:\\Users\\jiten\\OneDrive\\Documents\\GitHub\\Visual-Studio\\First_MVC\\First_MVC.csproj",
         "packagesPath": "C:\\Users\\jiten\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jiten\\source\\repos\\First_MVC\\obj\\",
+        "outputPath": "C:\\Users\\jiten\\OneDrive\\Documents\\GitHub\\Visual-Studio\\First_MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jiten\\source\\repos\\Webapi\\Webapi.csproj": {}
+    "C:\\Users\\jiten\\OneDrive\\Documents\\GitHub\\Visual-Studio\\Webapi\\Webapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jiten\\source\\repos\\Webapi\\Webapi.csproj": {
+    "C:\\Users\\jiten\\OneDrive\\Documents\\GitHub\\Visual-Studio\\Webapi\\Webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jiten\\source\\repos\\Webapi\\Webapi.csproj",
+        "projectUniqueName": "C:\\Users\\jiten\\OneDrive\\Documents\\GitHub\\Visual-Studio\\Webapi\\Webapi.csproj",
         "projectName": "Webapi",
-        "projectPath": "C:\\Users\\jiten\\source\\repos\\Webapi\\Webapi.csproj",
+        "projectPath": "C:\\Users\\jiten\\OneDrive\\Documents\\GitHub\\Visual-Studio\\Webapi\\Webapi.csproj",
         "packagesPath": "C:\\Users\\jiten\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jiten\\source\\repos\\Webapi\\obj\\",
+        "outputPath": "C:\\Users\\jiten\\OneDrive\\Documents\\GitHub\\Visual-Studio\\Webapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -44,6 +44,10 @@
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.10.9, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
             }
           },
           "imports": [
